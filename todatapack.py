@@ -27,15 +27,15 @@ def convert_terrain_to_datapack(height_map, block_map, water_level=60, grass_den
                 else:
                     block_name = block_names[block]
 
-                generated_line = f"setblock {x} {height} {y} {block_name}\n"
+                generated_line = f"setblock {x} {round(height)} {y} {block_name}\n"
 
                 if height < water_level:
-                    generated_line += f"fill {x} {height} {y} {x} {water_level} {y} water\n"
+                    generated_line += f"fill {x} {round(height)} {y} {x} {water_level} {y} water\n"
 
 
                 elif block == 0:
                     if (x + y) % 100 < grass_density_percentage:
-                        generated_line += f"setblock {x} {height+1} {y} grass\n"
+                        generated_line += f"setblock {x} {round(height)+1} {y} short_grass\n"
 
                 file.write(generated_line)
 
