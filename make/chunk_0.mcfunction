@@ -1,1032 +1,809 @@
-setblock 0 80 0 grass_block
-setblock 0 80 1 grass_block
-setblock 0 80 2 grass_block
-setblock 0 80 3 grass_block
-setblock 0 80 4 grass_block
-setblock 0 80 5 grass_block
-setblock 0 80 6 grass_block
-setblock 0 80 7 grass_block
-setblock 0 80 8 grass_block
-setblock 0 79 9 grass_block
-setblock 0 79 10 grass_block
-setblock 0 79 11 grass_block
-setblock 0 79 12 grass_block
-setblock 0 79 13 grass_block
-setblock 0 79 14 grass_block
-setblock 0 79 15 grass_block
-setblock 0 79 16 grass_block
-setblock 0 79 17 grass_block
-setblock 0 79 18 grass_block
-setblock 0 79 19 grass_block
-setblock 0 79 20 grass_block
-setblock 0 79 21 grass_block
-setblock 0 79 22 grass_block
-setblock 0 79 23 grass_block
-setblock 0 79 24 grass_block
-setblock 0 79 25 grass_block
-setblock 0 79 26 grass_block
-setblock 0 79 27 grass_block
-setblock 0 79 28 grass_block
-setblock 0 79 29 grass_block
-setblock 0 79 30 grass_block
-setblock 0 79 31 grass_block
-setblock 0 79 32 grass_block
-setblock 0 79 33 grass_block
-setblock 0 79 34 grass_block
-setblock 0 79 35 grass_block
-setblock 0 79 36 grass_block
-setblock 0 79 37 grass_block
-setblock 0 79 38 grass_block
-setblock 0 79 39 grass_block
-setblock 0 79 40 grass_block
-setblock 0 79 41 grass_block
-setblock 0 79 42 grass_block
-setblock 0 79 43 grass_block
-setblock 0 79 44 grass_block
-setblock 0 79 45 grass_block
-setblock 0 79 46 grass_block
-setblock 0 79 47 grass_block
-setblock 0 79 48 grass_block
-setblock 0 80 49 grass_block
-setblock 0 80 50 grass_block
-setblock 0 80 51 grass_block
-setblock 0 80 52 grass_block
-setblock 0 80 53 grass_block
-setblock 0 80 54 grass_block
-setblock 0 80 55 grass_block
-setblock 0 80 56 grass_block
-setblock 0 80 57 grass_block
-setblock 0 80 58 grass_block
-setblock 0 80 59 grass_block
-setblock 0 80 60 grass_block
-setblock 0 80 61 grass_block
-setblock 0 80 62 grass_block
-setblock 0 80 63 grass_block
-setblock 0 80 64 grass_block
-setblock 0 80 65 grass_block
-setblock 0 80 66 grass_block
-setblock 0 80 67 grass_block
-setblock 0 80 68 grass_block
-setblock 0 80 69 grass_block
-setblock 0 80 70 grass_block
-setblock 0 80 71 grass_block
-setblock 0 80 72 grass_block
-setblock 0 80 73 grass_block
-setblock 0 81 74 grass_block
-setblock 0 81 75 grass_block
-setblock 0 81 76 grass_block
-setblock 0 81 77 grass_block
-setblock 0 81 78 grass_block
-setblock 0 81 79 grass_block
-setblock 0 81 80 grass_block
-setblock 0 81 81 grass_block
-setblock 0 81 82 grass_block
-setblock 0 81 83 grass_block
-setblock 0 81 84 grass_block
-setblock 0 81 85 grass_block
-setblock 0 81 86 grass_block
-setblock 0 81 87 grass_block
-setblock 0 81 88 grass_block
-setblock 0 81 89 grass_block
-setblock 0 81 90 grass_block
-setblock 0 81 91 grass_block
-setblock 0 81 92 grass_block
-setblock 0 81 93 grass_block
-setblock 0 81 94 grass_block
-setblock 0 82 95 grass_block
-setblock 0 82 96 grass_block
-setblock 0 82 97 grass_block
-setblock 0 82 98 grass_block
-setblock 0 82 99 grass_block
-setblock 0 82 100 grass_block
-setblock 0 82 101 grass_block
-setblock 0 82 102 grass_block
-setblock 0 82 103 grass_block
-setblock 0 82 104 grass_block
-setblock 0 82 105 grass_block
-setblock 0 82 106 grass_block
-setblock 0 82 107 grass_block
-setblock 0 82 108 grass_block
-setblock 0 82 109 grass_block
-setblock 0 82 110 grass_block
-setblock 0 82 111 grass_block
-setblock 0 82 112 grass_block
-setblock 0 82 113 grass_block
-setblock 0 82 114 grass_block
-setblock 0 82 115 grass_block
-setblock 0 82 116 grass_block
-setblock 0 82 117 grass_block
-setblock 0 82 118 grass_block
-setblock 0 82 119 grass_block
-setblock 0 82 120 grass_block
-setblock 0 82 121 grass_block
-setblock 0 82 122 grass_block
-setblock 0 82 123 grass_block
-setblock 0 82 124 grass_block
-setblock 0 82 125 grass_block
-setblock 0 82 126 grass_block
-setblock 0 82 127 grass_block
-setblock 0 82 128 grass_block
-setblock 0 82 129 grass_block
-setblock 0 82 130 grass_block
-setblock 0 82 131 grass_block
-setblock 0 82 132 grass_block
-setblock 0 82 133 grass_block
-setblock 0 82 134 grass_block
-setblock 0 82 135 grass_block
-setblock 0 83 136 grass_block
-setblock 0 83 137 grass_block
-setblock 0 83 138 grass_block
-setblock 0 83 139 grass_block
-setblock 0 83 140 grass_block
-setblock 0 83 141 grass_block
-setblock 0 83 142 grass_block
-setblock 0 83 143 grass_block
-setblock 0 83 144 grass_block
-setblock 0 83 145 grass_block
-setblock 0 83 146 stone
-setblock 0 83 147 cobblestone
-setblock 0 83 148 stone
-setblock 0 83 149 cobblestone
-setblock 0 83 150 stone
-setblock 0 84 151 cobblestone
-setblock 0 84 152 stone
-setblock 0 84 153 cobblestone
-setblock 0 84 154 stone
-setblock 0 84 155 cobblestone
-setblock 0 84 156 stone
-setblock 0 84 157 cobblestone
-setblock 0 84 158 stone
-setblock 0 85 159 cobblestone
-setblock 0 85 160 stone
-setblock 0 85 161 cobblestone
-setblock 0 85 162 stone
-setblock 0 85 163 cobblestone
-setblock 0 85 164 stone
-setblock 0 85 165 cobblestone
-setblock 0 86 166 stone
-setblock 0 86 167 cobblestone
-setblock 0 86 168 stone
-setblock 0 86 169 cobblestone
-setblock 0 86 170 stone
-setblock 0 86 171 cobblestone
-setblock 0 86 172 stone
-setblock 0 86 173 cobblestone
-setblock 0 86 174 stone
-setblock 0 86 175 cobblestone
-setblock 0 87 176 stone
-setblock 0 87 177 grass_block
-setblock 0 87 178 grass_block
-setblock 0 87 179 grass_block
-setblock 0 87 180 grass_block
-setblock 0 87 181 grass_block
-setblock 0 87 182 grass_block
-setblock 0 87 183 grass_block
-setblock 0 87 184 grass_block
-setblock 0 87 185 grass_block
-setblock 0 87 186 grass_block
-setblock 0 87 187 grass_block
-setblock 0 87 188 grass_block
-setblock 0 87 189 grass_block
-setblock 0 87 190 grass_block
-setblock 0 87 191 grass_block
-setblock 0 87 192 grass_block
-setblock 0 87 193 grass_block
-setblock 0 87 194 grass_block
-setblock 0 87 195 grass_block
-setblock 0 87 196 grass_block
-setblock 0 87 197 grass_block
-setblock 0 87 198 grass_block
-setblock 0 87 199 grass_block
-setblock 0 87 200 grass_block
-setblock 0 87 201 grass_block
-setblock 0 87 202 grass_block
-setblock 0 87 203 grass_block
-setblock 0 87 204 grass_block
-setblock 0 87 205 grass_block
-setblock 0 87 206 grass_block
-setblock 0 87 207 grass_block
-setblock 0 87 208 grass_block
-setblock 0 87 209 grass_block
-setblock 0 87 210 grass_block
-setblock 0 87 211 grass_block
-setblock 0 87 212 grass_block
-setblock 0 87 213 cobblestone
-setblock 0 87 214 stone
-setblock 0 87 215 cobblestone
-setblock 0 87 216 stone
-setblock 0 87 217 cobblestone
-setblock 0 88 218 stone
-setblock 0 88 219 cobblestone
-setblock 0 88 220 stone
-setblock 0 88 221 cobblestone
-setblock 0 88 222 stone
-setblock 0 88 223 cobblestone
-setblock 0 88 224 stone
-setblock 0 89 225 stone
-setblock 0 89 226 stone
-setblock 0 89 227 stone
-setblock 0 89 228 stone
-setblock 0 89 229 stone
-setblock 0 89 230 stone
-setblock 0 90 231 stone
-setblock 0 90 232 stone
-setblock 0 90 233 stone
-setblock 0 90 234 stone
-setblock 0 90 235 stone
-setblock 0 91 236 stone
-setblock 0 91 237 stone
-setblock 0 91 238 stone
-setblock 0 91 239 cobblestone
-setblock 0 91 240 stone
-setblock 0 91 241 cobblestone
-setblock 0 92 242 stone
-setblock 0 92 243 cobblestone
-setblock 0 92 244 stone
-setblock 0 92 245 cobblestone
-setblock 0 92 246 stone
-setblock 0 92 247 cobblestone
-setblock 0 92 248 stone
-setblock 0 92 249 cobblestone
-setblock 0 92 250 grass_block
-setblock 0 93 251 grass_block
-setblock 0 93 252 grass_block
-setblock 0 93 253 grass_block
-setblock 0 93 254 grass_block
-setblock 0 93 255 grass_block
-setblock 0 93 256 grass_block
-setblock 0 93 257 grass_block
-setblock 0 93 258 grass_block
-setblock 0 93 259 grass_block
-setblock 0 93 260 grass_block
-setblock 0 93 261 grass_block
-setblock 0 93 262 grass_block
-setblock 0 93 263 grass_block
-setblock 0 93 264 grass_block
-setblock 0 93 265 grass_block
-setblock 0 93 266 grass_block
-setblock 0 93 267 grass_block
-setblock 0 93 268 grass_block
-setblock 0 93 269 grass_block
-setblock 0 93 270 grass_block
-setblock 0 93 271 grass_block
-setblock 0 92 272 grass_block
-setblock 0 92 273 grass_block
-setblock 0 92 274 grass_block
-setblock 0 92 275 grass_block
-setblock 0 92 276 grass_block
-setblock 0 92 277 grass_block
-setblock 0 92 278 grass_block
-setblock 0 92 279 grass_block
-setblock 0 92 280 grass_block
-setblock 0 92 281 grass_block
-setblock 0 92 282 grass_block
-setblock 0 92 283 grass_block
-setblock 0 92 284 grass_block
-setblock 0 93 285 grass_block
-setblock 0 93 286 grass_block
-setblock 0 93 287 grass_block
-setblock 0 93 288 grass_block
-setblock 0 93 289 grass_block
-setblock 0 93 290 grass_block
-setblock 0 93 291 cobblestone
-setblock 0 93 292 stone
-setblock 0 93 293 cobblestone
-setblock 0 93 294 stone
-setblock 0 93 295 cobblestone
-setblock 0 94 296 stone
-setblock 0 94 297 cobblestone
-setblock 0 94 298 stone
-setblock 0 94 299 cobblestone
-setblock 0 94 300 stone
-setblock 0 94 301 cobblestone
-setblock 0 94 302 stone
-setblock 0 95 303 stone
-setblock 0 95 304 stone
-setblock 0 95 305 stone
-setblock 0 95 306 stone
-setblock 0 95 307 stone
-setblock 0 95 308 stone
-setblock 0 96 309 stone
-setblock 0 96 310 stone
-setblock 0 96 311 stone
-setblock 0 96 312 stone
-setblock 0 96 313 stone
-setblock 0 96 314 stone
-setblock 0 97 315 stone
-setblock 0 97 316 stone
-setblock 0 97 317 cobblestone
-setblock 0 97 318 stone
-setblock 0 97 319 cobblestone
-setblock 0 97 320 stone
-setblock 0 98 321 cobblestone
-setblock 0 98 322 stone
-setblock 0 98 323 cobblestone
-setblock 0 98 324 stone
-setblock 0 98 325 cobblestone
-setblock 0 98 326 stone
-setblock 0 98 327 cobblestone
-setblock 0 98 328 stone
-setblock 0 98 329 cobblestone
-setblock 0 98 330 stone
-setblock 0 98 331 cobblestone
-setblock 0 98 332 stone
-setblock 0 99 333 cobblestone
-setblock 0 99 334 stone
-setblock 0 99 335 cobblestone
-setblock 0 99 336 stone
-setblock 0 99 337 cobblestone
-setblock 0 99 338 stone
-setblock 0 99 339 cobblestone
-setblock 0 99 340 stone
-setblock 0 99 341 cobblestone
-setblock 0 99 342 stone
-setblock 0 99 343 cobblestone
-setblock 0 99 344 stone
-setblock 0 99 345 cobblestone
-setblock 0 99 346 stone
-setblock 0 99 347 cobblestone
-setblock 0 99 348 stone
-setblock 0 99 349 cobblestone
-setblock 0 100 350 stone
-setblock 0 100 351 cobblestone
-setblock 0 100 352 stone
-setblock 0 100 353 cobblestone
-setblock 0 100 354 stone
-setblock 0 100 355 cobblestone
-setblock 0 100 356 stone
-setblock 0 100 357 cobblestone
-setblock 0 100 358 stone
-setblock 0 100 359 cobblestone
-setblock 0 100 360 stone
-setblock 0 100 361 cobblestone
-setblock 0 101 362 stone
-setblock 0 101 363 cobblestone
-setblock 0 101 364 stone
-setblock 0 101 365 cobblestone
-setblock 0 101 366 stone
-setblock 0 101 367 cobblestone
-setblock 0 101 368 stone
-setblock 0 101 369 cobblestone
-setblock 0 101 370 stone
-setblock 0 101 371 cobblestone
-setblock 0 101 372 stone
-setblock 0 102 373 cobblestone
-setblock 0 102 374 stone
-setblock 0 102 375 cobblestone
-setblock 0 102 376 grass_block
-setblock 0 102 377 grass_block
-setblock 0 102 378 grass_block
-setblock 0 102 379 grass_block
-setblock 0 102 380 grass_block
-setblock 0 102 381 grass_block
-setblock 0 102 382 grass_block
-setblock 0 102 383 grass_block
-setblock 0 102 384 grass_block
-setblock 0 102 385 grass_block
-setblock 0 103 386 grass_block
-setblock 0 103 387 grass_block
-setblock 0 103 388 grass_block
-setblock 0 103 389 grass_block
-setblock 0 103 390 grass_block
-setblock 0 103 391 grass_block
-setblock 0 103 392 grass_block
-setblock 0 103 393 grass_block
-setblock 0 103 394 grass_block
-setblock 0 103 395 grass_block
-setblock 0 103 396 grass_block
-setblock 0 103 397 grass_block
-setblock 0 103 398 grass_block
-setblock 0 103 399 grass_block
-setblock 0 103 400 grass_block
-setblock 0 103 401 grass_block
-setblock 0 103 402 grass_block
-setblock 0 103 403 grass_block
-setblock 0 103 404 grass_block
-setblock 0 103 405 grass_block
-setblock 0 103 406 grass_block
-setblock 0 103 407 grass_block
-setblock 0 103 408 grass_block
-setblock 0 103 409 grass_block
-setblock 0 103 410 grass_block
-setblock 0 103 411 grass_block
-setblock 0 103 412 grass_block
-setblock 0 103 413 grass_block
-setblock 0 103 414 grass_block
-setblock 0 103 415 grass_block
-setblock 0 103 416 grass_block
-setblock 0 103 417 grass_block
-setblock 0 103 418 grass_block
-setblock 0 103 419 grass_block
-setblock 0 103 420 grass_block
-setblock 0 103 421 grass_block
-setblock 0 102 422 grass_block
-setblock 0 102 423 grass_block
-setblock 0 102 424 grass_block
-setblock 0 102 425 grass_block
-setblock 0 102 426 grass_block
-setblock 0 102 427 grass_block
-setblock 0 102 428 grass_block
-setblock 0 102 429 grass_block
-setblock 0 102 430 grass_block
-setblock 0 102 431 grass_block
-setblock 0 102 432 grass_block
-setblock 0 102 433 grass_block
-setblock 0 102 434 grass_block
-setblock 0 102 435 grass_block
-setblock 0 102 436 grass_block
-setblock 0 102 437 grass_block
-setblock 0 102 438 grass_block
-setblock 0 102 439 grass_block
-setblock 0 102 440 stone
-setblock 0 102 441 cobblestone
-setblock 0 102 442 stone
-setblock 0 102 443 cobblestone
-setblock 0 102 444 stone
-setblock 0 102 445 cobblestone
-setblock 0 102 446 stone
-setblock 0 103 447 cobblestone
-setblock 0 103 448 stone
-setblock 0 103 449 cobblestone
-setblock 0 103 450 stone
-setblock 0 103 451 stone
-setblock 0 103 452 stone
-setblock 0 103 453 stone
-setblock 0 103 454 stone
-setblock 0 104 455 stone
-setblock 0 104 456 stone
-setblock 0 104 457 stone
-setblock 0 104 458 stone
-setblock 0 104 459 stone
-setblock 0 104 460 stone
-setblock 0 104 461 stone
-setblock 0 105 462 stone
-setblock 0 105 463 stone
-setblock 0 105 464 stone
-setblock 0 105 465 stone
-setblock 0 105 466 stone
-setblock 0 105 467 stone
-setblock 0 105 468 stone
-setblock 0 106 469 stone
-setblock 0 106 470 stone
-setblock 0 106 471 stone
-setblock 0 106 472 stone
-setblock 0 106 473 stone
-setblock 0 106 474 stone
-setblock 0 106 475 stone
-setblock 0 107 476 stone
-setblock 0 107 477 stone
-setblock 0 107 478 stone
-setblock 0 107 479 stone
-setblock 0 107 480 stone
-setblock 0 107 481 stone
-setblock 0 107 482 stone
-setblock 0 107 483 stone
-setblock 0 107 484 stone
-setblock 0 107 485 cobblestone
-setblock 0 107 486 stone
-setblock 0 107 487 cobblestone
-setblock 0 107 488 stone
-setblock 0 108 489 cobblestone
-setblock 0 108 490 stone
-setblock 0 108 491 cobblestone
-setblock 0 108 492 stone
-setblock 0 107 493 cobblestone
-setblock 0 107 494 stone
-setblock 0 107 495 stone
-setblock 0 107 496 stone
-setblock 0 107 497 stone
-setblock 0 107 498 stone
-setblock 0 107 499 stone
-setblock 0 107 500 stone
-setblock 0 107 501 stone
-setblock 0 107 502 stone
-setblock 0 107 503 stone
-setblock 0 107 504 stone
-setblock 0 107 505 stone
-setblock 0 107 506 stone
-setblock 0 106 507 stone
-setblock 0 106 508 stone
-setblock 0 106 509 stone
-setblock 0 106 510 stone
-setblock 0 106 511 stone
-setblock 0 106 512 stone
-setblock 0 106 513 stone
-setblock 0 106 514 stone
-setblock 0 106 515 stone
-setblock 0 105 516 stone
-setblock 0 105 517 stone
-setblock 0 105 518 stone
-setblock 0 105 519 stone
-setblock 0 105 520 stone
-setblock 0 105 521 stone
-setblock 0 105 522 stone
-setblock 0 105 523 stone
-setblock 0 105 524 stone
-setblock 0 105 525 stone
-setblock 0 105 526 stone
-setblock 0 105 527 stone
-setblock 0 105 528 stone
-setblock 0 105 529 stone
-setblock 0 105 530 stone
-setblock 0 105 531 stone
-setblock 0 105 532 stone
-setblock 0 105 533 stone
-setblock 0 105 534 stone
-setblock 0 105 535 stone
-setblock 0 105 536 stone
-setblock 0 105 537 stone
-setblock 0 105 538 stone
-setblock 0 105 539 stone
-setblock 0 104 540 stone
-setblock 0 104 541 stone
-setblock 0 104 542 stone
-setblock 0 104 543 stone
-setblock 0 104 544 stone
-setblock 0 104 545 stone
-setblock 0 104 546 stone
-setblock 0 104 547 stone
-setblock 0 104 548 stone
-setblock 0 104 549 stone
-setblock 0 104 550 stone
-setblock 0 104 551 stone
-setblock 0 103 552 stone
-setblock 0 103 553 stone
-setblock 0 103 554 stone
-setblock 0 103 555 stone
-setblock 0 103 556 stone
-setblock 0 103 557 stone
-setblock 0 103 558 stone
-setblock 0 103 559 stone
-setblock 0 102 560 stone
-setblock 0 102 561 stone
-setblock 0 102 562 stone
-setblock 0 102 563 stone
-setblock 0 102 564 stone
-setblock 0 102 565 cobblestone
-setblock 0 102 566 stone
-setblock 0 101 567 cobblestone
-setblock 0 101 568 stone
-setblock 0 101 569 cobblestone
-setblock 0 101 570 stone
-setblock 0 101 571 cobblestone
-setblock 0 101 572 stone
-setblock 0 101 573 cobblestone
-setblock 0 101 574 grass_block
-setblock 0 101 575 grass_block
-setblock 0 101 576 grass_block
-setblock 0 101 577 grass_block
-setblock 0 101 578 grass_block
-setblock 0 101 579 grass_block
-setblock 0 101 580 grass_block
-setblock 0 100 581 grass_block
-setblock 0 100 582 grass_block
-setblock 0 100 583 grass_block
-setblock 0 100 584 grass_block
-setblock 0 101 584 short_grass
-setblock 0 100 585 grass_block
-setblock 0 101 585 short_grass
-setblock 0 100 586 grass_block
-setblock 0 101 586 short_grass
-setblock 0 100 587 grass_block
-setblock 0 101 588 grass_block
-setblock 0 101 589 grass_block
-setblock 0 101 590 grass_block
-setblock 0 101 591 grass_block
-setblock 0 101 592 grass_block
-setblock 0 101 593 grass_block
-setblock 0 101 594 grass_block
-setblock 0 101 595 grass_block
-setblock 0 101 596 grass_block
-setblock 0 101 597 grass_block
-setblock 0 101 598 grass_block
-setblock 0 101 599 grass_block
-setblock 0 101 600 grass_block
-setblock 0 101 601 grass_block
-setblock 0 101 602 grass_block
-setblock 0 101 603 grass_block
-setblock 0 101 604 grass_block
-setblock 0 101 605 grass_block
-setblock 0 101 606 grass_block
-setblock 0 101 607 grass_block
-setblock 0 102 607 short_grass
-setblock 0 101 608 grass_block
-setblock 0 102 608 short_grass
-setblock 0 101 609 grass_block
-setblock 0 102 609 short_grass
-setblock 0 101 610 grass_block
-setblock 0 102 610 short_grass
-setblock 0 101 611 grass_block
-setblock 0 101 612 grass_block
-setblock 0 101 613 grass_block
-setblock 0 101 614 grass_block
-setblock 0 101 615 grass_block
-setblock 0 101 616 grass_block
-setblock 0 101 617 grass_block
-setblock 0 101 618 grass_block
-setblock 0 101 619 cobblestone
-setblock 0 101 620 stone
-setblock 0 101 621 cobblestone
-setblock 0 100 622 stone
-setblock 0 100 623 cobblestone
-setblock 0 100 624 stone
-setblock 0 100 625 cobblestone
-setblock 0 100 626 stone
-setblock 0 100 627 stone
-setblock 0 99 628 stone
-setblock 0 99 629 stone
-setblock 0 99 630 stone
-setblock 0 99 631 stone
-setblock 0 99 632 stone
-setblock 0 99 633 stone
-setblock 0 98 634 stone
-setblock 0 98 635 stone
-setblock 0 98 636 stone
-setblock 0 98 637 stone
-setblock 0 98 638 stone
-setblock 0 97 639 stone
-setblock 0 97 640 stone
-setblock 0 97 641 stone
-setblock 0 97 642 stone
-setblock 0 97 643 stone
-setblock 0 97 644 stone
-setblock 0 96 645 stone
-setblock 0 96 646 stone
-setblock 0 96 647 stone
-setblock 0 96 648 stone
-setblock 0 96 649 stone
-setblock 0 96 650 stone
-setblock 0 96 651 stone
-setblock 0 96 652 stone
-setblock 0 95 653 stone
-setblock 0 95 654 stone
-setblock 0 95 655 stone
-setblock 0 95 656 stone
-setblock 0 95 657 stone
-setblock 0 95 658 stone
-setblock 0 95 659 stone
-setblock 0 95 660 stone
-setblock 0 95 661 stone
-setblock 0 95 662 stone
-setblock 0 95 663 stone
-setblock 0 95 664 stone
-setblock 0 95 665 stone
-setblock 0 95 666 stone
-setblock 0 95 667 stone
-setblock 0 95 668 stone
-setblock 0 95 669 stone
-setblock 0 95 670 stone
-setblock 0 95 671 stone
-setblock 0 95 672 stone
-setblock 0 95 673 stone
-setblock 0 95 674 stone
-setblock 0 95 675 stone
-setblock 0 95 676 stone
-setblock 0 95 677 stone
-setblock 0 95 678 stone
-setblock 0 95 679 stone
-setblock 0 95 680 stone
-setblock 0 95 681 stone
-setblock 0 95 682 stone
-setblock 0 95 683 stone
-setblock 0 95 684 stone
-setblock 0 95 685 stone
-setblock 0 95 686 stone
-setblock 0 95 687 stone
-setblock 0 95 688 stone
-setblock 0 95 689 stone
-setblock 0 95 690 stone
-setblock 0 94 691 stone
-setblock 0 94 692 stone
-setblock 0 94 693 stone
-setblock 0 94 694 stone
-setblock 0 94 695 stone
-setblock 0 94 696 stone
-setblock 0 94 697 stone
-setblock 0 94 698 stone
-setblock 0 93 699 stone
-setblock 0 93 700 stone
-setblock 0 93 701 stone
-setblock 0 93 702 stone
-setblock 0 93 703 stone
-setblock 0 92 704 stone
-setblock 0 92 705 stone
-setblock 0 92 706 stone
-setblock 0 92 707 stone
-setblock 0 92 708 stone
-setblock 0 92 709 stone
-setblock 0 91 710 stone
-setblock 0 91 711 stone
-setblock 0 91 712 stone
-setblock 0 91 713 stone
-setblock 0 91 714 stone
-setblock 0 90 715 stone
-setblock 0 90 716 stone
-setblock 0 90 717 stone
-setblock 0 90 718 stone
-setblock 0 90 719 cobblestone
-setblock 0 90 720 stone
-setblock 0 89 721 cobblestone
-setblock 0 89 722 stone
-setblock 0 89 723 cobblestone
-setblock 0 89 724 stone
-setblock 0 89 725 cobblestone
-setblock 0 89 726 stone
-setblock 0 89 727 cobblestone
-setblock 0 88 728 stone
-setblock 0 88 729 cobblestone
-setblock 0 88 730 stone
-setblock 0 88 731 cobblestone
-setblock 0 88 732 stone
-setblock 0 88 733 cobblestone
-setblock 0 88 734 stone
-setblock 0 88 735 cobblestone
-setblock 0 88 736 stone
-setblock 0 87 737 cobblestone
-setblock 0 87 738 stone
-setblock 0 87 739 cobblestone
-setblock 0 87 740 stone
-setblock 0 87 741 cobblestone
-setblock 0 87 742 stone
-setblock 0 87 743 cobblestone
-setblock 0 87 744 stone
-setblock 0 86 745 cobblestone
-setblock 0 86 746 stone
-setblock 0 86 747 cobblestone
-setblock 0 86 748 stone
-setblock 0 86 749 stone
-setblock 0 85 750 stone
-setblock 0 85 751 stone
-setblock 0 85 752 stone
-setblock 0 85 753 stone
-setblock 0 85 754 stone
-setblock 0 84 755 stone
-setblock 0 84 756 stone
-setblock 0 84 757 stone
-setblock 0 84 758 stone
-setblock 0 84 759 stone
-setblock 0 83 760 stone
-setblock 0 83 761 stone
-setblock 0 83 762 stone
-setblock 0 83 763 stone
-setblock 0 83 764 stone
-setblock 0 82 765 stone
-setblock 0 82 766 stone
-setblock 0 82 767 stone
-setblock 0 82 768 stone
-setblock 0 82 769 cobblestone
-setblock 0 81 770 stone
-setblock 0 81 771 cobblestone
-setblock 0 81 772 stone
-setblock 0 81 773 cobblestone
-setblock 0 81 774 stone
-setblock 0 81 775 cobblestone
-setblock 0 81 776 stone
-setblock 0 81 777 cobblestone
-setblock 0 80 778 grass_block
-setblock 0 80 779 grass_block
-setblock 0 80 780 grass_block
-setblock 0 80 781 grass_block
-setblock 0 80 782 grass_block
-setblock 0 80 783 grass_block
-setblock 0 80 784 grass_block
-setblock 0 80 785 grass_block
-setblock 0 80 786 grass_block
-setblock 0 80 787 grass_block
-setblock 0 80 788 grass_block
-setblock 0 80 789 grass_block
-setblock 0 80 790 grass_block
-setblock 0 81 790 short_grass
-setblock 0 80 791 grass_block
-setblock 0 81 791 short_grass
-setblock 0 80 792 grass_block
-setblock 0 81 792 short_grass
-setblock 0 80 793 grass_block
-setblock 0 81 793 short_grass
-setblock 0 80 794 grass_block
-setblock 0 81 794 short_grass
-setblock 0 80 795 grass_block
-setblock 0 81 795 short_grass
-setblock 0 80 796 grass_block
-setblock 0 81 796 short_grass
-setblock 0 80 797 grass_block
-setblock 0 81 797 short_grass
-setblock 0 80 798 grass_block
-setblock 0 81 798 short_grass
-setblock 0 80 799 grass_block
-setblock 0 81 799 short_grass
-setblock 0 80 800 grass_block
-setblock 0 81 800 short_grass
-setblock 0 80 801 grass_block
-setblock 0 81 801 short_grass
-setblock 0 80 802 grass_block
-setblock 0 81 802 short_grass
-setblock 0 80 803 grass_block
-setblock 0 81 803 short_grass
-setblock 0 80 804 grass_block
-setblock 0 81 804 short_grass
-setblock 0 80 805 grass_block
-setblock 0 81 805 short_grass
-setblock 0 80 806 grass_block
-setblock 0 81 806 short_grass
-setblock 0 80 807 grass_block
-setblock 0 81 807 short_grass
-setblock 0 80 808 grass_block
-setblock 0 81 808 short_grass
-setblock 0 80 809 grass_block
-setblock 0 81 809 short_grass
-setblock 0 80 810 grass_block
-setblock 0 81 810 short_grass
-setblock 0 80 811 grass_block
-setblock 0 81 811 short_grass
-setblock 0 80 812 grass_block
-setblock 0 81 812 short_grass
-setblock 0 80 813 grass_block
-setblock 0 81 813 short_grass
-setblock 0 80 814 grass_block
-setblock 0 81 814 short_grass
-setblock 0 80 815 grass_block
-setblock 0 80 816 grass_block
-setblock 0 80 817 grass_block
-setblock 0 80 818 grass_block
-setblock 0 80 819 grass_block
-setblock 0 80 820 grass_block
-setblock 0 80 821 grass_block
-setblock 0 80 822 grass_block
-setblock 0 80 823 grass_block
-setblock 0 80 824 grass_block
-setblock 0 80 825 grass_block
-setblock 0 80 826 grass_block
-setblock 0 79 827 cobblestone
-setblock 0 79 828 stone
-setblock 0 79 829 cobblestone
-setblock 0 79 830 stone
-setblock 0 79 831 cobblestone
-setblock 0 79 832 stone
-setblock 0 79 833 cobblestone
-setblock 0 79 834 stone
-setblock 0 78 835 cobblestone
-setblock 0 78 836 stone
-setblock 0 78 837 stone
-setblock 0 78 838 stone
-setblock 0 78 839 stone
-setblock 0 77 840 stone
-setblock 0 77 841 stone
-setblock 0 77 842 stone
-setblock 0 77 843 stone
-setblock 0 77 844 stone
-setblock 0 76 845 stone
-setblock 0 76 846 stone
-setblock 0 76 847 stone
-setblock 0 76 848 stone
-setblock 0 75 849 stone
-setblock 0 75 850 stone
-setblock 0 75 851 stone
-setblock 0 75 852 stone
-setblock 0 75 853 stone
-setblock 0 74 854 stone
-setblock 0 74 855 stone
-setblock 0 74 856 stone
-setblock 0 74 857 stone
-setblock 0 74 858 stone
-setblock 0 73 859 cobblestone
-setblock 0 73 860 stone
-setblock 0 73 861 cobblestone
-setblock 0 73 862 stone
-setblock 0 73 863 cobblestone
-setblock 0 73 864 stone
-setblock 0 72 865 cobblestone
-setblock 0 72 866 stone
-setblock 0 72 867 cobblestone
-setblock 0 72 868 stone
-setblock 0 72 869 cobblestone
-setblock 0 72 870 stone
-setblock 0 72 871 cobblestone
-setblock 0 71 872 stone
-setblock 0 71 873 cobblestone
-setblock 0 71 874 stone
-setblock 0 71 875 stone
-setblock 0 71 876 stone
-setblock 0 71 877 stone
-setblock 0 70 878 stone
-setblock 0 70 879 stone
-setblock 0 70 880 stone
-setblock 0 70 881 stone
-setblock 0 70 882 stone
-setblock 0 69 883 stone
-setblock 0 69 884 stone
-setblock 0 69 885 stone
-setblock 0 69 886 stone
-setblock 0 69 887 stone
-setblock 0 68 888 stone
-setblock 0 68 889 stone
-setblock 0 68 890 stone
-setblock 0 68 891 stone
-setblock 0 67 892 stone
-setblock 0 67 893 stone
-setblock 0 67 894 stone
-setblock 0 67 895 stone
-setblock 0 67 896 stone
-setblock 0 66 897 stone
-setblock 0 66 898 stone
-setblock 0 66 899 stone
-setblock 0 66 900 stone
-setblock 0 66 901 stone
-setblock 0 66 902 stone
-setblock 0 66 903 stone
-setblock 0 65 904 stone
-setblock 0 65 905 stone
-setblock 0 65 906 stone
-setblock 0 65 907 stone
-setblock 0 65 908 stone
-setblock 0 65 909 stone
-setblock 0 65 910 stone
-setblock 0 65 911 stone
-setblock 0 65 912 stone
-setblock 0 65 913 stone
-setblock 0 65 914 stone
-setblock 0 65 915 stone
-setblock 0 65 916 stone
-setblock 0 65 917 stone
-setblock 0 65 918 stone
-setblock 0 65 919 stone
-setblock 0 65 920 stone
-setblock 0 65 921 stone
-setblock 0 65 922 stone
-setblock 0 65 923 stone
-setblock 0 65 924 stone
-setblock 0 65 925 stone
-setblock 0 65 926 stone
-setblock 0 65 927 stone
-setblock 0 65 928 stone
-setblock 0 65 929 stone
-setblock 0 65 930 stone
-setblock 0 65 931 stone
-setblock 0 65 932 stone
-setblock 0 65 933 stone
-setblock 0 65 934 stone
-setblock 0 65 935 stone
-setblock 0 66 936 stone
-setblock 0 66 937 stone
-setblock 0 66 938 stone
-setblock 0 66 939 stone
-setblock 0 66 940 stone
-setblock 0 66 941 stone
-setblock 0 66 942 stone
-setblock 0 66 943 stone
-setblock 0 66 944 stone
-setblock 0 66 945 stone
-setblock 0 66 946 stone
-setblock 0 66 947 stone
-setblock 0 66 948 stone
-setblock 0 66 949 stone
-setblock 0 66 950 stone
-setblock 0 66 951 stone
-setblock 0 66 952 stone
-setblock 0 66 953 stone
-setblock 0 66 954 stone
-setblock 0 66 955 stone
-setblock 0 66 956 stone
-setblock 0 65 957 stone
-setblock 0 65 958 stone
-setblock 0 65 959 stone
-setblock 0 65 960 stone
-setblock 0 65 961 stone
-setblock 0 65 962 stone
-setblock 0 65 963 stone
-setblock 0 65 964 stone
-setblock 0 65 965 stone
-setblock 0 64 966 stone
-setblock 0 64 967 stone
-setblock 0 64 968 stone
-setblock 0 64 969 stone
-setblock 0 64 970 stone
-setblock 0 64 971 stone
-setblock 0 63 972 stone
-setblock 0 63 973 stone
-setblock 0 63 974 stone
-setblock 0 63 975 stone
-setblock 0 63 976 stone
-setblock 0 63 977 stone
-setblock 0 62 978 stone
-setblock 0 62 979 stone
-setblock 0 62 980 stone
-setblock 0 62 981 stone
-setblock 0 62 982 stone
-setblock 0 62 983 stone
-setblock 0 62 984 stone
-setblock 0 61 985 stone
-setblock 0 61 986 stone
-setblock 0 61 987 stone
-setblock 0 61 988 stone
-setblock 0 61 989 stone
-setblock 0 61 990 stone
-setblock 0 61 991 cobblestone
-setblock 0 61 992 stone
-setblock 0 61 993 cobblestone
-setblock 0 61 994 stone
-setblock 0 61 995 cobblestone
-setblock 0 60 996 stone
-setblock 0 60 997 cobblestone
-setblock 0 60 998 stone
-setblock 0 60 999 cobblestone
+setblock 0 110 0 stone
+setblock 0 110 1 stone
+setblock 0 109 2 stone
+setblock 0 109 3 stone
+setblock 0 109 4 stone
+setblock 0 109 5 stone
+setblock 0 108 6 stone
+setblock 0 108 7 stone
+setblock 0 108 8 stone
+setblock 0 108 9 stone
+setblock 0 107 10 stone
+setblock 0 107 11 stone
+setblock 0 107 12 stone
+setblock 0 107 13 cobblestone
+setblock 0 106 14 stone
+setblock 0 106 15 cobblestone
+setblock 0 106 16 stone
+setblock 0 106 17 cobblestone
+setblock 0 105 18 stone
+setblock 0 105 19 cobblestone
+setblock 0 105 20 stone
+setblock 0 105 21 cobblestone
+setblock 0 104 22 stone
+setblock 0 104 23 cobblestone
+setblock 0 104 24 stone
+setblock 0 104 25 cobblestone
+setblock 0 103 26 stone
+setblock 0 103 27 cobblestone
+setblock 0 103 28 stone
+setblock 0 103 29 cobblestone
+setblock 0 103 30 stone
+setblock 0 102 31 cobblestone
+setblock 0 102 32 stone
+setblock 0 102 33 cobblestone
+setblock 0 102 34 stone
+setblock 0 102 35 cobblestone
+setblock 0 101 36 stone
+setblock 0 101 37 cobblestone
+setblock 0 101 38 stone
+setblock 0 101 39 cobblestone
+setblock 0 101 40 stone
+setblock 0 100 41 cobblestone
+setblock 0 100 42 stone
+setblock 0 100 43 cobblestone
+setblock 0 100 44 stone
+setblock 0 100 45 cobblestone
+setblock 0 99 46 stone
+setblock 0 99 47 cobblestone
+setblock 0 99 48 stone
+setblock 0 99 49 cobblestone
+setblock 0 98 50 stone
+setblock 0 98 51 cobblestone
+setblock 0 98 52 stone
+setblock 0 98 53 cobblestone
+setblock 0 98 54 stone
+setblock 0 97 55 cobblestone
+setblock 0 97 56 stone
+setblock 0 97 57 cobblestone
+setblock 0 97 58 stone
+setblock 0 96 59 cobblestone
+setblock 0 96 60 stone
+setblock 0 96 61 cobblestone
+setblock 0 95 62 stone
+setblock 0 95 63 stone
+setblock 0 95 64 stone
+setblock 0 95 65 stone
+setblock 0 94 66 stone
+setblock 0 94 67 stone
+setblock 0 94 68 stone
+setblock 0 94 69 stone
+setblock 0 93 70 stone
+setblock 0 93 71 stone
+setblock 0 93 72 stone
+setblock 0 92 73 stone
+setblock 0 92 74 stone
+setblock 0 92 75 stone
+setblock 0 92 76 stone
+setblock 0 91 77 stone
+setblock 0 91 78 stone
+setblock 0 91 79 stone
+setblock 0 90 80 stone
+setblock 0 90 81 stone
+setblock 0 90 82 stone
+setblock 0 89 83 stone
+setblock 0 89 84 stone
+setblock 0 89 85 stone
+setblock 0 88 86 stone
+setblock 0 88 87 stone
+setblock 0 88 88 stone
+setblock 0 87 89 stone
+setblock 0 87 90 stone
+setblock 0 86 91 stone
+setblock 0 86 92 stone
+setblock 0 86 93 stone
+setblock 0 85 94 stone
+setblock 0 85 95 stone
+setblock 0 85 96 stone
+setblock 0 84 97 stone
+setblock 0 84 98 stone
+setblock 0 84 99 stone
+setblock 0 83 100 stone
+setblock 0 83 101 stone
+setblock 0 83 102 stone
+setblock 0 83 103 stone
+setblock 0 82 104 stone
+setblock 0 82 105 stone
+setblock 0 82 106 stone
+setblock 0 82 107 stone
+setblock 0 81 108 stone
+setblock 0 81 109 cobblestone
+setblock 0 81 110 stone
+setblock 0 81 111 cobblestone
+setblock 0 80 112 stone
+setblock 0 80 113 cobblestone
+setblock 0 80 114 stone
+setblock 0 80 115 cobblestone
+setblock 0 79 116 stone
+setblock 0 79 117 cobblestone
+setblock 0 79 118 stone
+setblock 0 79 119 cobblestone
+setblock 0 79 120 stone
+setblock 0 78 121 cobblestone
+setblock 0 78 122 stone
+setblock 0 78 123 cobblestone
+setblock 0 78 124 stone
+setblock 0 78 125 cobblestone
+setblock 0 78 126 stone
+setblock 0 77 127 cobblestone
+setblock 0 77 128 stone
+setblock 0 77 129 cobblestone
+setblock 0 77 130 stone
+setblock 0 77 131 cobblestone
+setblock 0 76 132 stone
+setblock 0 76 133 cobblestone
+setblock 0 76 134 stone
+setblock 0 76 135 cobblestone
+setblock 0 76 136 stone
+setblock 0 76 137 cobblestone
+setblock 0 75 138 stone
+setblock 0 75 139 cobblestone
+setblock 0 75 140 stone
+setblock 0 75 141 cobblestone
+setblock 0 75 142 stone
+setblock 0 74 143 cobblestone
+setblock 0 74 144 stone
+setblock 0 74 145 cobblestone
+setblock 0 74 146 stone
+setblock 0 74 147 cobblestone
+setblock 0 73 148 stone
+setblock 0 73 149 cobblestone
+setblock 0 73 150 stone
+setblock 0 73 151 cobblestone
+setblock 0 72 152 stone
+setblock 0 72 153 cobblestone
+setblock 0 72 154 stone
+setblock 0 72 155 cobblestone
+setblock 0 71 156 stone
+setblock 0 71 157 cobblestone
+setblock 0 71 158 stone
+setblock 0 71 159 cobblestone
+setblock 0 70 160 stone
+setblock 0 70 161 cobblestone
+setblock 0 70 162 stone
+setblock 0 69 163 stone
+setblock 0 69 164 stone
+setblock 0 69 165 stone
+setblock 0 68 166 stone
+setblock 0 68 167 stone
+setblock 0 68 168 stone
+setblock 0 67 169 stone
+setblock 0 67 170 stone
+setblock 0 67 171 stone
+setblock 0 66 172 stone
+setblock 0 66 173 stone
+setblock 0 66 174 stone
+setblock 0 65 175 stone
+setblock 0 65 176 stone
+setblock 0 65 177 stone
+setblock 0 64 178 stone
+setblock 0 64 179 stone
+setblock 0 63 180 stone
+setblock 0 63 181 stone
+setblock 0 63 182 stone
+setblock 0 62 183 cobblestone
+setblock 0 62 184 stone
+setblock 0 62 185 cobblestone
+setblock 0 61 186 stone
+setblock 0 61 187 cobblestone
+setblock 0 61 188 stone
+setblock 0 60 189 cobblestone
+setblock 0 60 190 stone
+setblock 0 60 191 cobblestone
+fill 0 60 191 0 60 191 water
+setblock 0 59 192 stone
+fill 0 59 192 0 60 192 water
+setblock 0 59 193 cobblestone
+fill 0 59 193 0 60 193 water
+setblock 0 59 194 stone
+fill 0 59 194 0 60 194 water
+setblock 0 59 195 cobblestone
+fill 0 59 195 0 60 195 water
+setblock 0 58 196 stone
+fill 0 58 196 0 60 196 water
+setblock 0 58 197 cobblestone
+fill 0 58 197 0 60 197 water
+setblock 0 58 198 stone
+fill 0 58 198 0 60 198 water
+setblock 0 58 199 cobblestone
+fill 0 58 199 0 60 199 water
+setblock 0 57 200 stone
+fill 0 57 200 0 60 200 water
+setblock 0 57 201 cobblestone
+fill 0 57 201 0 60 201 water
+setblock 0 57 202 stone
+fill 0 57 202 0 60 202 water
+setblock 0 56 203 cobblestone
+fill 0 56 203 0 60 203 water
+setblock 0 56 204 stone
+fill 0 56 204 0 60 204 water
+setblock 0 56 205 cobblestone
+fill 0 56 205 0 60 205 water
+setblock 0 56 206 stone
+fill 0 56 206 0 60 206 water
+setblock 0 55 207 cobblestone
+fill 0 55 207 0 60 207 water
+setblock 0 55 208 stone
+fill 0 55 208 0 60 208 water
+setblock 0 55 209 cobblestone
+fill 0 55 209 0 60 209 water
+setblock 0 55 210 stone
+fill 0 55 210 0 60 210 water
+setblock 0 54 211 cobblestone
+fill 0 54 211 0 60 211 water
+setblock 0 54 212 stone
+fill 0 54 212 0 60 212 water
+setblock 0 54 213 cobblestone
+fill 0 54 213 0 60 213 water
+setblock 0 54 214 stone
+fill 0 54 214 0 60 214 water
+setblock 0 53 215 cobblestone
+fill 0 53 215 0 60 215 water
+setblock 0 53 216 stone
+fill 0 53 216 0 60 216 water
+setblock 0 53 217 cobblestone
+fill 0 53 217 0 60 217 water
+setblock 0 53 218 stone
+fill 0 53 218 0 60 218 water
+setblock 0 52 219 cobblestone
+fill 0 52 219 0 60 219 water
+setblock 0 52 220 stone
+fill 0 52 220 0 60 220 water
+setblock 0 52 221 cobblestone
+fill 0 52 221 0 60 221 water
+setblock 0 52 222 stone
+fill 0 52 222 0 60 222 water
+setblock 0 51 223 cobblestone
+fill 0 51 223 0 60 223 water
+setblock 0 51 224 stone
+fill 0 51 224 0 60 224 water
+setblock 0 51 225 cobblestone
+fill 0 51 225 0 60 225 water
+setblock 0 51 226 stone
+fill 0 51 226 0 60 226 water
+setblock 0 50 227 cobblestone
+fill 0 50 227 0 60 227 water
+setblock 0 50 228 stone
+fill 0 50 228 0 60 228 water
+setblock 0 50 229 grass_block
+fill 0 50 229 0 60 229 water
+setblock 0 50 230 grass_block
+fill 0 50 230 0 60 230 water
+setblock 0 49 231 grass_block
+fill 0 49 231 0 60 231 water
+setblock 0 49 232 grass_block
+fill 0 49 232 0 60 232 water
+setblock 0 49 233 cobblestone
+fill 0 49 233 0 60 233 water
+setblock 0 49 234 stone
+fill 0 49 234 0 60 234 water
+setblock 0 48 235 cobblestone
+fill 0 48 235 0 60 235 water
+setblock 0 48 236 stone
+fill 0 48 236 0 60 236 water
+setblock 0 48 237 cobblestone
+fill 0 48 237 0 60 237 water
+setblock 0 48 238 stone
+fill 0 48 238 0 60 238 water
+setblock 0 47 239 cobblestone
+fill 0 47 239 0 60 239 water
+setblock 0 47 240 stone
+fill 0 47 240 0 60 240 water
+setblock 0 47 241 cobblestone
+fill 0 47 241 0 60 241 water
+setblock 0 47 242 stone
+fill 0 47 242 0 60 242 water
+setblock 0 46 243 cobblestone
+fill 0 46 243 0 60 243 water
+setblock 0 46 244 stone
+fill 0 46 244 0 60 244 water
+setblock 0 46 245 cobblestone
+fill 0 46 245 0 60 245 water
+setblock 0 46 246 stone
+fill 0 46 246 0 60 246 water
+setblock 0 45 247 cobblestone
+fill 0 45 247 0 60 247 water
+setblock 0 45 248 stone
+fill 0 45 248 0 60 248 water
+setblock 0 45 249 cobblestone
+fill 0 45 249 0 60 249 water
+setblock 0 45 250 stone
+fill 0 45 250 0 60 250 water
+setblock 0 44 251 cobblestone
+fill 0 44 251 0 60 251 water
+setblock 0 44 252 stone
+fill 0 44 252 0 60 252 water
+setblock 0 44 253 cobblestone
+fill 0 44 253 0 60 253 water
+setblock 0 44 254 stone
+fill 0 44 254 0 60 254 water
+setblock 0 43 255 cobblestone
+fill 0 43 255 0 60 255 water
+setblock 0 43 256 stone
+fill 0 43 256 0 60 256 water
+setblock 0 43 257 cobblestone
+fill 0 43 257 0 60 257 water
+setblock 0 42 258 stone
+fill 0 42 258 0 60 258 water
+setblock 0 42 259 cobblestone
+fill 0 42 259 0 60 259 water
+setblock 0 42 260 stone
+fill 0 42 260 0 60 260 water
+setblock 0 42 261 cobblestone
+fill 0 42 261 0 60 261 water
+setblock 0 42 262 stone
+fill 0 42 262 0 60 262 water
+setblock 0 41 263 cobblestone
+fill 0 41 263 0 60 263 water
+setblock 0 41 264 stone
+fill 0 41 264 0 60 264 water
+setblock 0 41 265 cobblestone
+fill 0 41 265 0 60 265 water
+setblock 0 41 266 stone
+fill 0 41 266 0 60 266 water
+setblock 0 40 267 cobblestone
+fill 0 40 267 0 60 267 water
+setblock 0 40 268 stone
+fill 0 40 268 0 60 268 water
+setblock 0 40 269 cobblestone
+fill 0 40 269 0 60 269 water
+setblock 0 40 270 stone
+fill 0 40 270 0 60 270 water
+setblock 0 39 271 cobblestone
+fill 0 39 271 0 60 271 water
+setblock 0 39 272 stone
+fill 0 39 272 0 60 272 water
+setblock 0 39 273 cobblestone
+fill 0 39 273 0 60 273 water
+setblock 0 39 274 stone
+fill 0 39 274 0 60 274 water
+setblock 0 39 275 cobblestone
+fill 0 39 275 0 60 275 water
+setblock 0 38 276 stone
+fill 0 38 276 0 60 276 water
+setblock 0 38 277 cobblestone
+fill 0 38 277 0 60 277 water
+setblock 0 38 278 grass_block
+fill 0 38 278 0 60 278 water
+setblock 0 38 279 grass_block
+fill 0 38 279 0 60 279 water
+setblock 0 38 280 grass_block
+fill 0 38 280 0 60 280 water
+setblock 0 38 281 grass_block
+fill 0 38 281 0 60 281 water
+setblock 0 37 282 grass_block
+fill 0 37 282 0 60 282 water
+setblock 0 37 283 grass_block
+fill 0 37 283 0 60 283 water
+setblock 0 37 284 grass_block
+fill 0 37 284 0 60 284 water
+setblock 0 37 285 grass_block
+fill 0 37 285 0 60 285 water
+setblock 0 37 286 grass_block
+fill 0 37 286 0 60 286 water
+setblock 0 37 287 grass_block
+fill 0 37 287 0 60 287 water
+setblock 0 37 288 grass_block
+fill 0 37 288 0 60 288 water
+setblock 0 37 289 grass_block
+fill 0 37 289 0 60 289 water
+setblock 0 37 290 grass_block
+fill 0 37 290 0 60 290 water
+setblock 0 36 291 grass_block
+fill 0 36 291 0 60 291 water
+setblock 0 36 292 grass_block
+fill 0 36 292 0 60 292 water
+setblock 0 36 293 grass_block
+fill 0 36 293 0 60 293 water
+setblock 0 36 294 grass_block
+fill 0 36 294 0 60 294 water
+setblock 0 36 295 grass_block
+fill 0 36 295 0 60 295 water
+setblock 0 36 296 grass_block
+fill 0 36 296 0 60 296 water
+setblock 0 36 297 grass_block
+fill 0 36 297 0 60 297 water
+setblock 0 36 298 grass_block
+fill 0 36 298 0 60 298 water
+setblock 0 36 299 grass_block
+fill 0 36 299 0 60 299 water
+setblock 0 36 300 grass_block
+fill 0 36 300 0 60 300 water
+setblock 0 36 301 grass_block
+fill 0 36 301 0 60 301 water
+setblock 0 35 302 grass_block
+fill 0 35 302 0 60 302 water
+setblock 0 35 303 grass_block
+fill 0 35 303 0 60 303 water
+setblock 0 35 304 grass_block
+fill 0 35 304 0 60 304 water
+setblock 0 35 305 grass_block
+fill 0 35 305 0 60 305 water
+setblock 0 35 306 grass_block
+fill 0 35 306 0 60 306 water
+setblock 0 35 307 grass_block
+fill 0 35 307 0 60 307 water
+setblock 0 35 308 grass_block
+fill 0 35 308 0 60 308 water
+setblock 0 34 309 grass_block
+fill 0 34 309 0 60 309 water
+setblock 0 34 310 grass_block
+fill 0 34 310 0 60 310 water
+setblock 0 34 311 grass_block
+fill 0 34 311 0 60 311 water
+setblock 0 34 312 grass_block
+fill 0 34 312 0 60 312 water
+setblock 0 34 313 grass_block
+fill 0 34 313 0 60 313 water
+setblock 0 34 314 grass_block
+fill 0 34 314 0 60 314 water
+setblock 0 33 315 grass_block
+fill 0 33 315 0 60 315 water
+setblock 0 33 316 grass_block
+fill 0 33 316 0 60 316 water
+setblock 0 33 317 grass_block
+fill 0 33 317 0 60 317 water
+setblock 0 33 318 grass_block
+fill 0 33 318 0 60 318 water
+setblock 0 32 319 grass_block
+fill 0 32 319 0 60 319 water
+setblock 0 32 320 grass_block
+fill 0 32 320 0 60 320 water
+setblock 0 32 321 grass_block
+fill 0 32 321 0 60 321 water
+setblock 0 32 322 grass_block
+fill 0 32 322 0 60 322 water
+setblock 0 32 323 grass_block
+fill 0 32 323 0 60 323 water
+setblock 0 31 324 stone
+fill 0 31 324 0 60 324 water
+setblock 0 31 325 cobblestone
+fill 0 31 325 0 60 325 water
+setblock 0 31 326 stone
+fill 0 31 326 0 60 326 water
+setblock 0 31 327 cobblestone
+fill 0 31 327 0 60 327 water
+setblock 0 30 328 stone
+fill 0 30 328 0 60 328 water
+setblock 0 30 329 cobblestone
+fill 0 30 329 0 60 329 water
+setblock 0 30 330 stone
+fill 0 30 330 0 60 330 water
+setblock 0 30 331 cobblestone
+fill 0 30 331 0 60 331 water
+setblock 0 29 332 stone
+fill 0 29 332 0 60 332 water
+setblock 0 29 333 cobblestone
+fill 0 29 333 0 60 333 water
+setblock 0 29 334 stone
+fill 0 29 334 0 60 334 water
+setblock 0 29 335 grass_block
+fill 0 29 335 0 60 335 water
+setblock 0 28 336 grass_block
+fill 0 28 336 0 60 336 water
+setblock 0 28 337 grass_block
+fill 0 28 337 0 60 337 water
+setblock 0 28 338 grass_block
+fill 0 28 338 0 60 338 water
+setblock 0 28 339 grass_block
+fill 0 28 339 0 60 339 water
+setblock 0 28 340 grass_block
+fill 0 28 340 0 60 340 water
+setblock 0 27 341 grass_block
+fill 0 27 341 0 60 341 water
+setblock 0 27 342 grass_block
+fill 0 27 342 0 60 342 water
+setblock 0 27 343 grass_block
+fill 0 27 343 0 60 343 water
+setblock 0 27 344 grass_block
+fill 0 27 344 0 60 344 water
+setblock 0 27 345 grass_block
+fill 0 27 345 0 60 345 water
+setblock 0 27 346 grass_block
+fill 0 27 346 0 60 346 water
+setblock 0 27 347 grass_block
+fill 0 27 347 0 60 347 water
+setblock 0 26 348 grass_block
+fill 0 26 348 0 60 348 water
+setblock 0 26 349 grass_block
+fill 0 26 349 0 60 349 water
+setblock 0 26 350 grass_block
+fill 0 26 350 0 60 350 water
+setblock 0 26 351 grass_block
+fill 0 26 351 0 60 351 water
+setblock 0 26 352 grass_block
+fill 0 26 352 0 60 352 water
+setblock 0 26 353 grass_block
+fill 0 26 353 0 60 353 water
+setblock 0 26 354 grass_block
+fill 0 26 354 0 60 354 water
+setblock 0 26 355 grass_block
+fill 0 26 355 0 60 355 water
+setblock 0 26 356 grass_block
+fill 0 26 356 0 60 356 water
+setblock 0 26 357 grass_block
+fill 0 26 357 0 60 357 water
+setblock 0 26 358 grass_block
+fill 0 26 358 0 60 358 water
+setblock 0 26 359 grass_block
+fill 0 26 359 0 60 359 water
+setblock 0 26 360 grass_block
+fill 0 26 360 0 60 360 water
+setblock 0 26 361 grass_block
+fill 0 26 361 0 60 361 water
+setblock 0 26 362 grass_block
+fill 0 26 362 0 60 362 water
+setblock 0 26 363 grass_block
+fill 0 26 363 0 60 363 water
+setblock 0 27 364 grass_block
+fill 0 27 364 0 60 364 water
+setblock 0 27 365 grass_block
+fill 0 27 365 0 60 365 water
+setblock 0 27 366 grass_block
+fill 0 27 366 0 60 366 water
+setblock 0 27 367 grass_block
+fill 0 27 367 0 60 367 water
+setblock 0 27 368 grass_block
+fill 0 27 368 0 60 368 water
+setblock 0 27 369 grass_block
+fill 0 27 369 0 60 369 water
+setblock 0 27 370 grass_block
+fill 0 27 370 0 60 370 water
+setblock 0 27 371 grass_block
+fill 0 27 371 0 60 371 water
+setblock 0 27 372 grass_block
+fill 0 27 372 0 60 372 water
+setblock 0 27 373 grass_block
+fill 0 27 373 0 60 373 water
+setblock 0 27 374 grass_block
+fill 0 27 374 0 60 374 water
+setblock 0 27 375 grass_block
+fill 0 27 375 0 60 375 water
+setblock 0 27 376 grass_block
+fill 0 27 376 0 60 376 water
+setblock 0 27 377 grass_block
+fill 0 27 377 0 60 377 water
+setblock 0 27 378 grass_block
+fill 0 27 378 0 60 378 water
+setblock 0 27 379 grass_block
+fill 0 27 379 0 60 379 water
+setblock 0 27 380 grass_block
+fill 0 27 380 0 60 380 water
+setblock 0 27 381 grass_block
+fill 0 27 381 0 60 381 water
+setblock 0 27 382 grass_block
+fill 0 27 382 0 60 382 water
+setblock 0 27 383 grass_block
+fill 0 27 383 0 60 383 water
+setblock 0 27 384 grass_block
+fill 0 27 384 0 60 384 water
+setblock 0 27 385 grass_block
+fill 0 27 385 0 60 385 water
+setblock 0 27 386 grass_block
+fill 0 27 386 0 60 386 water
+setblock 0 27 387 grass_block
+fill 0 27 387 0 60 387 water
+setblock 0 27 388 grass_block
+fill 0 27 388 0 60 388 water
+setblock 0 27 389 grass_block
+fill 0 27 389 0 60 389 water
+setblock 0 27 390 stone
+fill 0 27 390 0 60 390 water
+setblock 0 27 391 cobblestone
+fill 0 27 391 0 60 391 water
+setblock 0 27 392 stone
+fill 0 27 392 0 60 392 water
+setblock 0 27 393 cobblestone
+fill 0 27 393 0 60 393 water
+setblock 0 26 394 stone
+fill 0 26 394 0 60 394 water
+setblock 0 26 395 cobblestone
+fill 0 26 395 0 60 395 water
+setblock 0 26 396 stone
+fill 0 26 396 0 60 396 water
+setblock 0 26 397 cobblestone
+fill 0 26 397 0 60 397 water
+setblock 0 26 398 stone
+fill 0 26 398 0 60 398 water
+setblock 0 26 399 cobblestone
+fill 0 26 399 0 60 399 water
+setblock 0 26 400 stone
+fill 0 26 400 0 60 400 water
+setblock 0 25 401 cobblestone
+fill 0 25 401 0 60 401 water
+setblock 0 25 402 stone
+fill 0 25 402 0 60 402 water
+setblock 0 25 403 cobblestone
+fill 0 25 403 0 60 403 water
+setblock 0 25 404 stone
+fill 0 25 404 0 60 404 water
+setblock 0 25 405 cobblestone
+fill 0 25 405 0 60 405 water
+setblock 0 25 406 stone
+fill 0 25 406 0 60 406 water
+setblock 0 25 407 cobblestone
+fill 0 25 407 0 60 407 water
+setblock 0 25 408 stone
+fill 0 25 408 0 60 408 water
+setblock 0 25 409 cobblestone
+fill 0 25 409 0 60 409 water
+setblock 0 24 410 stone
+fill 0 24 410 0 60 410 water
+setblock 0 24 411 cobblestone
+fill 0 24 411 0 60 411 water
+setblock 0 24 412 stone
+fill 0 24 412 0 60 412 water
+setblock 0 24 413 cobblestone
+fill 0 24 413 0 60 413 water
+setblock 0 24 414 stone
+fill 0 24 414 0 60 414 water
+setblock 0 24 415 cobblestone
+fill 0 24 415 0 60 415 water
+setblock 0 24 416 stone
+fill 0 24 416 0 60 416 water
+setblock 0 24 417 cobblestone
+fill 0 24 417 0 60 417 water
+setblock 0 24 418 stone
+fill 0 24 418 0 60 418 water
+setblock 0 25 419 cobblestone
+fill 0 25 419 0 60 419 water
+setblock 0 25 420 stone
+fill 0 25 420 0 60 420 water
+setblock 0 25 421 cobblestone
+fill 0 25 421 0 60 421 water
+setblock 0 25 422 stone
+fill 0 25 422 0 60 422 water
+setblock 0 25 423 cobblestone
+fill 0 25 423 0 60 423 water
+setblock 0 25 424 stone
+fill 0 25 424 0 60 424 water
+setblock 0 25 425 cobblestone
+fill 0 25 425 0 60 425 water
+setblock 0 25 426 stone
+fill 0 25 426 0 60 426 water
+setblock 0 26 427 cobblestone
+fill 0 26 427 0 60 427 water
+setblock 0 26 428 stone
+fill 0 26 428 0 60 428 water
+setblock 0 26 429 cobblestone
+fill 0 26 429 0 60 429 water
+setblock 0 26 430 stone
+fill 0 26 430 0 60 430 water
+setblock 0 26 431 cobblestone
+fill 0 26 431 0 60 431 water
+setblock 0 26 432 stone
+fill 0 26 432 0 60 432 water
+setblock 0 27 433 cobblestone
+fill 0 27 433 0 60 433 water
+setblock 0 27 434 stone
+fill 0 27 434 0 60 434 water
+setblock 0 27 435 cobblestone
+fill 0 27 435 0 60 435 water
+setblock 0 27 436 stone
+fill 0 27 436 0 60 436 water
+setblock 0 28 437 cobblestone
+fill 0 28 437 0 60 437 water
+setblock 0 28 438 stone
+fill 0 28 438 0 60 438 water
+setblock 0 28 439 cobblestone
+fill 0 28 439 0 60 439 water
+setblock 0 28 440 stone
+fill 0 28 440 0 60 440 water
+setblock 0 28 441 cobblestone
+fill 0 28 441 0 60 441 water
+setblock 0 29 442 stone
+fill 0 29 442 0 60 442 water
+setblock 0 29 443 cobblestone
+fill 0 29 443 0 60 443 water
+setblock 0 29 444 stone
+fill 0 29 444 0 60 444 water
+setblock 0 29 445 cobblestone
+fill 0 29 445 0 60 445 water
+setblock 0 29 446 stone
+fill 0 29 446 0 60 446 water
+setblock 0 29 447 cobblestone
+fill 0 29 447 0 60 447 water
+setblock 0 30 448 stone
+fill 0 30 448 0 60 448 water
+setblock 0 30 449 cobblestone
+fill 0 30 449 0 60 449 water
+setblock 0 30 450 stone
+fill 0 30 450 0 60 450 water
+setblock 0 30 451 cobblestone
+fill 0 30 451 0 60 451 water
+setblock 0 30 452 stone
+fill 0 30 452 0 60 452 water
+setblock 0 30 453 cobblestone
+fill 0 30 453 0 60 453 water
+setblock 0 30 454 stone
+fill 0 30 454 0 60 454 water
+setblock 0 30 455 cobblestone
+fill 0 30 455 0 60 455 water
+setblock 0 31 456 stone
+fill 0 31 456 0 60 456 water
+setblock 0 31 457 cobblestone
+fill 0 31 457 0 60 457 water
+setblock 0 31 458 stone
+fill 0 31 458 0 60 458 water
+setblock 0 31 459 cobblestone
+fill 0 31 459 0 60 459 water
+setblock 0 31 460 stone
+fill 0 31 460 0 60 460 water
+setblock 0 31 461 cobblestone
+fill 0 31 461 0 60 461 water
+setblock 0 31 462 stone
+fill 0 31 462 0 60 462 water
+setblock 0 31 463 cobblestone
+fill 0 31 463 0 60 463 water
+setblock 0 31 464 stone
+fill 0 31 464 0 60 464 water
+setblock 0 31 465 cobblestone
+fill 0 31 465 0 60 465 water
+setblock 0 31 466 stone
+fill 0 31 466 0 60 466 water
+setblock 0 31 467 cobblestone
+fill 0 31 467 0 60 467 water
+setblock 0 31 468 stone
+fill 0 31 468 0 60 468 water
+setblock 0 31 469 cobblestone
+fill 0 31 469 0 60 469 water
+setblock 0 31 470 stone
+fill 0 31 470 0 60 470 water
+setblock 0 31 471 cobblestone
+fill 0 31 471 0 60 471 water
+setblock 0 31 472 stone
+fill 0 31 472 0 60 472 water
+setblock 0 31 473 cobblestone
+fill 0 31 473 0 60 473 water
+setblock 0 31 474 stone
+fill 0 31 474 0 60 474 water
+setblock 0 31 475 cobblestone
+fill 0 31 475 0 60 475 water
+setblock 0 31 476 stone
+fill 0 31 476 0 60 476 water
+setblock 0 31 477 cobblestone
+fill 0 31 477 0 60 477 water
+setblock 0 31 478 stone
+fill 0 31 478 0 60 478 water
+setblock 0 31 479 cobblestone
+fill 0 31 479 0 60 479 water
+setblock 0 31 480 stone
+fill 0 31 480 0 60 480 water
+setblock 0 31 481 cobblestone
+fill 0 31 481 0 60 481 water
+setblock 0 31 482 stone
+fill 0 31 482 0 60 482 water
+setblock 0 31 483 cobblestone
+fill 0 31 483 0 60 483 water
+setblock 0 32 484 stone
+fill 0 32 484 0 60 484 water
+setblock 0 32 485 cobblestone
+fill 0 32 485 0 60 485 water
+setblock 0 32 486 stone
+fill 0 32 486 0 60 486 water
+setblock 0 32 487 cobblestone
+fill 0 32 487 0 60 487 water
+setblock 0 32 488 stone
+fill 0 32 488 0 60 488 water
+setblock 0 32 489 cobblestone
+fill 0 32 489 0 60 489 water
+setblock 0 32 490 stone
+fill 0 32 490 0 60 490 water
+setblock 0 33 491 cobblestone
+fill 0 33 491 0 60 491 water
+setblock 0 33 492 stone
+fill 0 33 492 0 60 492 water
+setblock 0 33 493 cobblestone
+fill 0 33 493 0 60 493 water
+setblock 0 33 494 stone
+fill 0 33 494 0 60 494 water
+setblock 0 33 495 cobblestone
+fill 0 33 495 0 60 495 water
+setblock 0 34 496 stone
+fill 0 34 496 0 60 496 water
+setblock 0 34 497 cobblestone
+fill 0 34 497 0 60 497 water
+setblock 0 34 498 stone
+fill 0 34 498 0 60 498 water
+setblock 0 34 499 cobblestone
+fill 0 34 499 0 60 499 water
