@@ -12,7 +12,7 @@ def compute_row(args):
     i, size, scale1, scale2, noise1, noise2 = args
     row = np.zeros(size)
     for j in range(size):
-        row[j] = ((noise1([i / scale1, j / scale1]) + 0.5) * 20) + ((noise2([i / scale2, j / scale2]) + 0.5) * 200)
+        row[j] = ((noise1([i / scale1, j / scale1]) + 0.5) * 30) + ((noise2([i / scale2, j / scale2]) + 0.5) * 250)
     return i, row
 
 def generate_height_map(size, seed=None, scale1=200, scale2=800):
@@ -40,7 +40,7 @@ def generate_height_map(size, seed=None, scale1=200, scale2=800):
 if __name__ == "__main__":
     # Generate terrain
     size = 500
-    height_map = generate_height_map(size=size, seed=4964)
+    height_map = generate_height_map(size=size)
 
 
     # Plot terrain
@@ -67,20 +67,20 @@ if __name__ == "__main__":
 
         conditions = [
             {
-                "function": lambda grad_x, grad_y, grad_mag: 0 < grad_mag < 0.2,  # grass
+                "function": lambda grad_x, grad_y, grad_mag: 0 < grad_mag < 0.25,  # grass
                 "id": 0
             },
             {
-                "function": lambda grad_x, grad_y, grad_mag: 0.2 < grad_mag < 0.25,  # grass
+                "function": lambda grad_x, grad_y, grad_mag: 0.25 < grad_mag < 0.4,  # grass
                 "id": 1
             },
             {
-                "function": lambda grad_x, grad_y, grad_mag: 0.25 < grad_mag < 0.4,  # sloped
+                "function": lambda grad_x, grad_y, grad_mag: 0.4 < grad_mag < 1,  # sloped
                 "id": 2
             },
 
             {
-                "function": lambda grad_x, grad_y, grad_mag: 0.4 < grad_mag,  # steep
+                "function": lambda grad_x, grad_y, grad_mag: 1 < grad_mag,  # steep
                 "id": 3
             },
         ]
@@ -96,7 +96,7 @@ if __name__ == "__main__":
             # Assign the corresponding ID to the ID map where the condition is true
             block_map[condition_mask] = condition["id"]
 
-        print("Displaying...")
+        """print("Displaying...")  # this takes 5 fucking years for anything larger than 100x100
         fig = plt.figure(figsize=(10, 8))
         ax = fig.add_subplot(111, projection='3d')
 
@@ -125,11 +125,11 @@ if __name__ == "__main__":
         cbar = fig.colorbar(plt.cm.ScalarMappable(norm=norm, cmap=block_cmap), ax=ax, shrink=0.5, aspect=5)
         cbar.set_label('Block ID')
 
-        plt.show()
+        plt.show()"""
         print("Converting...")
 
         todatapack.convert_terrain_to_datapack(
-            height_map, block_map, water_level=60, grass_density_percentage=10
+            height_map, block_map, water_level=60, grass_density_percentage=10, output_dir=r"E:\Modded\IceBoatTerrain\world\datapacks\terrain\data\make\function"
         )
 
         print("Complete!")
